@@ -1,0 +1,3 @@
+TrainID,TrainName,SourceStation,DestinationStation,TotalSeats
+T123,Express1,StationA,StationB,100
+T124,Express2,StationC,StationD,150
