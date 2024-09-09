@@ -1,0 +1,5 @@
+Date,Store ID,Product ID,Quantity sold
+2023-02-01,Store001,ProdA,12
+2023-02-01,Store001,ProdB,6
+2023-02-02,Store002,ProdA,9
+2023-02-02,Store002,ProdC,10
